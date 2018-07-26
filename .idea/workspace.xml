@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1168b764-13b2-454c-b1a7-6f039502bd8c" name="Default" comment="Almost ready..." />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cv: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>isA</find>
+      <find>/login</find>
+      <find>new User</find>
+      <find>select</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\OSPanel\OSPanel\domains\project</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Проект_где_тестирую" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/Singleton.php" />
+        <option value="$PROJECT_DIR$/administration/Controller.php" />
+        <option value="$PROJECT_DIR$/administration/models/User.php" />
+        <option value="$PROJECT_DIR$/administration/controllers/InterestsController.php" />
+        <option value="$PROJECT_DIR$/administration/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/administration/controllers/PersonalController.php" />
+        <option value="$PROJECT_DIR$/administration/controllers/SkillsController.php" />
+        <option value="$PROJECT_DIR$/administration/controllers/EducationController.php" />
+        <option value="$PROJECT_DIR$/administration/controllers/ExperienceController.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="16" />
+    <option name="y" value="38" />
+    <option name="width" value="1261" />
+    <option name="height" value="716" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="project" type="cbb8eebc:String" user="project" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="project" type="cbb8eebc:String" user="project" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="project" type="cbb8eebc:String" user="project" />
+              <item name="application" type="cbb8eebc:String" user="application" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="project" type="cbb8eebc:String" user="project" />
+              <item name="application" type="cbb8eebc:String" user="application" />
+              <item name="controllers" type="cbb8eebc:String" user="controllers" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;MariaDB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../localhost" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="project" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1168b764-13b2-454c-b1a7-6f039502bd8c" name="Default" comment="" />
+      <created>1532364107937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532364107937</updated>
+      <workItem from="1532364112511" duration="3735000" />
+      <workItem from="1532376143270" duration="40000" />
+      <workItem from="1532439182459" duration="8288000" />
+      <workItem from="1532448302502" duration="1270000" />
+      <workItem from="1532449760596" duration="107000" />
+      <workItem from="1532449945244" duration="3955000" />
+      <workItem from="1532455637083" duration="1597000" />
+      <workItem from="1532533851068" duration="131000" />
+    </task>
+    <task id="LOCAL-00001" summary="Уже закончил прокт, нужно еще поправить админ панель в ретурне значений по ID">
+      <created>1532442529482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532442529482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19123000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="16" y="38" width="1261" height="716" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4863388" visible="true" weight="0.22460777" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4983471" weight="0.32864675" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045417" side_tool="true" visible="true" weight="0.35676625" />
+      <window_info anchor="right" id="Database" order="3" weight="0.25767368" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4954583" visible="true" weight="0.35676625" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.5136612" side_tool="true" visible="true" weight="0.22460777" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49752066" weight="0.32864675" />
+      <window_info id="Favorites" order="2" sideWeight="0.5026178" side_tool="true" weight="0.2214876" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32901135" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32901135" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2003231" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32901135" />
+      <window_info anchor="right" id="Database" order="0" weight="0.25767368" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MY_COMMITS" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Уже закончил прокт, нужно еще поправить админ панель в ретурне значений по ID" />
+    <MESSAGE value="Уже закончил прокт, нужно еще попправить админ панель в ретурне значений" />
+    <MESSAGE value="Almost ready..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost ready..." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoload.php" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/user" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/phones" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/education" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/SkillsController.php" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/EducationController.php" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/PersonalController.php" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/personal" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/IndexController.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/CvDataFactory.php" />
+    <entry file="file://$PROJECT_DIR$/common/Model.php" />
+    <entry file="file://$PROJECT_DIR$/administration/models/parts/Education.php" />
+    <entry file="file://$PROJECT_DIR$/administration/models/parts/Personal.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/parts/Personal.php" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/skills" />
+    <entry file="file://$PROJECT_DIR$/administration/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/ExperienceController.php" />
+    <entry file="file://$PROJECT_DIR$/common/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/administration/models/User.php" />
+    <entry file="file://$PROJECT_DIR$/common/Singleton.php" />
+    <entry file="file://$PROJECT_DIR$/common/Database.php" />
+    <entry file="file://$PROJECT_DIR$/common/Router.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/InterestsController.php" />
+    <entry file="file://$PROJECT_DIR$/Autoload.php" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/user" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/phones" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/education" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/SkillsController.php" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/EducationController.php" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/personal" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/IndexController.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/CvDataFactory.php" />
+    <entry file="file://$PROJECT_DIR$/common/Model.php" />
+    <entry file="file://$PROJECT_DIR$/administration/models/parts/Education.php" />
+    <entry file="file://$PROJECT_DIR$/administration/models/parts/Personal.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/parts/Personal.php" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/InterestsController.php" />
+    <entry file="das://a32245d7-ad27-455c-a22d-48a9d6684042/schema/cv/table/skills" />
+    <entry file="file://$PROJECT_DIR$/administration/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/ExperienceController.php" />
+    <entry file="file://$PROJECT_DIR$/common/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/administration/models/User.php" />
+    <entry file="file://$PROJECT_DIR$/common/Singleton.php" />
+    <entry file="file://$PROJECT_DIR$/common/Database.php" />
+    <entry file="file://$PROJECT_DIR$/common/Router.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/administration/controllers/PersonalController.php" />
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
